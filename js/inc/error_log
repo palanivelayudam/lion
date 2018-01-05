@@ -1,0 +1,1 @@
+[30-Jan-2015 09:36:52 America/Chicago] PHP Fatal error:  Call to undefined function email() in /home/webicode/public_html/demos.webicode.com/html/the-lion-html/js/inc/sendemail.php on line 20
